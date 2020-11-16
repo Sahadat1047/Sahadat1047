@@ -32,12 +32,7 @@
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Sahadat1047&show_icons=true&hide_border=true" />
 
 </details>
-<details>
-  <summary>:zap:Used Language</summary>
-<a href="https://github.com/Sahadat1047">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahadat1047&html&title_color=000000&text_color=000000&icon_color=2bbc8a&bg_color=#FFFFFF" />
-</>
-</details>
+
 
 
 [website]: https://www.hackerrank.com/sahadatsagor1047

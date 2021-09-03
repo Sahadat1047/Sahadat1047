@@ -37,7 +37,7 @@
 
 [website]: https://www.hackerrank.com/sahadatsagor1047
 
-[twitter]: https://sahadatsagor1047.wixsite.com/mysite-1
+[twitter]: https://sahadat1047@github.io
 
 [instagram]: https://www.instagram.com/sahadat_sagor/
 [linkedin]: https://www.linkedin.com/in/md-sahadat-hossain/
